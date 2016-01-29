@@ -3,7 +3,20 @@ layout: page
 
 ---
 
-## Welcome to my Robinson Center Saturday Enrichment Program page!
+## Robinson Center Saturday Enrichment Program
+## Winter 2016 Astronomy Course: Alien Worlds
 
-Here you will find information on the class or classes that I am currently teaching
-as well information on any past Robinson Center classes I have taught.
+Here you will find information (syllabus, assignments and lectures) for
+the Robinson Center Saturday course I am currently teaching. This quarter
+the course is entitled "Alien Worlds," and focuses on exoplanets, or planets
+outside the solar system. Students will address
+the following questions throughout the course of the quarter:
+
+- How do we detect and characterize exoplanets?
+- What factors determine if an exoplanet is likely to be habitable?
+- How is habitability of alien worlds portrayed in popular shows and movies versus
+how do scientists view habitable exoplanets?
+- How common are habitable exoplanets and what does this mean for our search for
+intelligent life on other worlds?
+
+Please feel free to contact me with any questions: garofali AT uw DOT edu 
