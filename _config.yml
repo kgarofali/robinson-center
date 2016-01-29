@@ -1,10 +1,10 @@
 # Site settings
-title: RC Saturday Astronomy 
+title: RC Saturday Astronomy
 email: garofali@uw.edu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/robinson-center/" # the subpath of your site, e.g. /blog/
 url: "http://kgarofali.github.io/robinson-center" # the base hostname & protocol for your site
-premap_home: "https://robinsoncenter.uw.edu/"
+rc_home: "https://robinsoncenter.uw.edu/"
 
 
 # Build settings
