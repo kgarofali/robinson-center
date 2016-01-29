@@ -4,8 +4,10 @@ layout: page
 ---
 
 ## Robinson Center Saturday Enrichment Program
+
 ## Winter 2016 Astronomy Course: Alien Worlds
-### Instructor: Kristen Garofali
+
+**Instructor:** Kristen Garofali
 
 Here you will find information (syllabus, assignments and lectures) for
 the Robinson Center Saturday course I am currently teaching. This quarter
@@ -20,4 +22,4 @@ how do scientists view habitable exoplanets?
 - How common are habitable exoplanets and what does this mean for our search for
 intelligent life on other worlds?
 
-Please feel free to contact me with any questions: garofali AT uw DOT edu
+**Contact**: garofali AT uw DOT edu
