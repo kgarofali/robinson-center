@@ -17,3 +17,8 @@ permalink: lectures/
 ## Week 4
 [Exoplanet Host Stars](../docs/04Lesson.pdf)
 
+## Week 5
+[The Habitable Zone](../docs/05Lesson.pdf)
+
+## Week 6
+[Alien Worlds in Science Fiction](../docs/06Lesson.pdf)
