@@ -22,3 +22,6 @@ permalink: lectures/
 
 ## Week 6
 [Alien Worlds in Science Fiction](../docs/06Lesson.pdf)
+
+## Week 7
+["Exoplanet Discoveries: Today and Beyond"](../docs/07Lesson.pdf)
